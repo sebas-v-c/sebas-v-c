@@ -10,7 +10,7 @@ Hi, my name is Sebastian Vásquez ![](https://user-images.githubusercontent.com/
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://godotengine.org/" targer="_blank" rel="noreferrer"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_dark.svg" width="50" height="50" alt="GDScript" title="GDScript"/></a>
+<a href="https://godotengine.org/" targer="_blank" rel="noreferrer"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_dark.svg" width="80" height="50" alt="GDScript" title="GDScript"/></a>
 </p>
 
 ### Badges
