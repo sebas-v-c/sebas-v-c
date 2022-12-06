@@ -1,7 +1,7 @@
 Hi, my name is Sebastian Vásquez ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 * ✉️  You can contact me at [sebas.vasquez010@gmail.com](mailto:sebas.vasquez010@gmail.com)
-* 🤝  I'm open to collaborating on Game development
+* 🤝  I'm open to collaborate any Game development project
 
 ### Skills
 
